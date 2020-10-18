@@ -3,6 +3,8 @@
 
 day6 : 2742, 11021, 11022
 
-- 새로 배운 지식
+* 새로 배운 지식
+
 map(func, iter)
+
 formatting: print('Cases #%d'%(i))
