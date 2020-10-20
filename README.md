@@ -8,3 +8,9 @@
 map(func, iter)
 
 formatting: print('Cases #%d'%(i))
+
+* day7 : 2438, 2439, 10871
+새로 배운 지식
+print(end =" ")
+
+정렬은 띄어쓰기로.
