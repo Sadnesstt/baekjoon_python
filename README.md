@@ -30,3 +30,10 @@ EOF를 위해 while + try ~ except
 list의 index는 list.index(value)
 
 문자 배열의 각 원소를 카운팅해주는 함수는 str.count(i)
+
+* day10 : 3052, 1546, 8958
+새로 배운 지식
+
+list의 distinct value만 추릴 때는 set함수 이용하기!
+
+[3*x for x in [111, 222, 333]] list looping
