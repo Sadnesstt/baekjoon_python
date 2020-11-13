@@ -37,3 +37,19 @@ list의 index는 list.index(value)
 list의 distinct value만 추릴 때는 set함수 이용하기!
 
 [3*x for x in [111, 222, 333]] list looping
+
+* day11-12 : 4344, 15596, 4673
+
+새로 배운 지식
+
+# 새로 배운 것
+
+- list comprehension if else를 다시 익혔다.
+
+[1 if x> avg else 0 for x in case]
+
+- format(a, '.2f') 소수점 둘째자리까지 나타내라
+
+- 숫자의 자리수를 구하기 위해서 //와 %을 사용할 것!!!
+
+- sorted(ans)는 ans.sorted()이렇게 사용 불가!
