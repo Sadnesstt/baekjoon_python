@@ -42,8 +42,6 @@ list의 distinct value만 추릴 때는 set함수 이용하기!
 
 새로 배운 지식
 
-# 새로 배운 것
-
 - list comprehension if else를 다시 익혔다.
 
 [1 if x> avg else 0 for x in case]
