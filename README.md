@@ -40,14 +40,12 @@ list의 distinct value만 추릴 때는 set함수 이용하기!
 
 * day11-12 : 4344, 15596, 4673
 
-새로 배운 지식
-
-- list comprehension if else를 다시 익혔다.
+list comprehension if else를 다시 익혔다.
 
 [1 if x> avg else 0 for x in case]
 
-- format(a, '.2f') 소수점 둘째자리까지 나타내라
+format(a, '.2f') 소수점 둘째자리까지 나타내라
 
-- 숫자의 자리수를 구하기 위해서 //와 %을 사용할 것!!!
+숫자의 자리수를 구하기 위해서 //와 %을 사용할 것!!!
 
-- sorted(ans)는 ans.sorted()이렇게 사용 불가!
+orted(ans)는 ans.sorted()이렇게 사용 불가!
