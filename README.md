@@ -75,3 +75,15 @@
     문자열도 int형처럼 계산이 된다는 성질
 
     R, S = input().split()처럼 튜플의 성질을 이용해서 복수개의 object 할당 가능하다는 것(오랜만에 파이썬을 해서 잊었음..)
+* day 15 : 1157, 1152, 2908
+    대문자 알파벳을 불러오는 법
+    
+      1. string.ascii_uppercase
+
+      2. map(chr, range(65, 90)) -> 아스키 코드 번호
+    
+    dictionary 키를 한번에 설정하는 방법: {k:v for k in alphabet}
+    
+    print(*freq)를 통해 freq라는 list를 unpacking할 수 있다.
+    
+    문자열을 거꾸로 하는 방법 A[::-1]
